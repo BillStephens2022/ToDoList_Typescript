@@ -1,0 +1,24 @@
+{
+  "name": "todolist_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillStephens2022/ToDoList_Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillStephens2022/ToDoList_Typescript/issues"
+  },
+  "homepage": "https://github.com/BillStephens2022/ToDoList_Typescript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
